@@ -31,6 +31,20 @@ d3.json("data/nfl.json", function(error, data) {
 
 
 function createChart(data) {
-  // write to console
-  console.log("called createChart() function");
+  // svg dimensions
+  var svgHeight = "300";
+  var svgWidth = "600";
+
+
+  // make selection of svg container
+  var svgContainer = d3.select("#svg-container");
+
+
+  // create <svg> element inside svg container
+  var svg = svgContainer.append("svg");
+
+
+  // set <svg> element height and width dimensions
+  svg.attr("height", svgHeight)
+     .attr("width", svgWidth);
 }
