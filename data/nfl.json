@@ -1,0 +1,258 @@
+[
+  {
+    "Team": "Patriots",
+    "Division": "AFC East",
+    "W": 14,
+    "L": 2,
+    "T": 0,
+    "Color": "#C80815"
+  },
+  {
+    "Team": "Dolphins",
+    "Division": "AFC East",
+    "W": 10,
+    "L": 6,
+    "T": 0,
+    "Color": "#008D97"
+  },
+  {
+    "Team": "Bills",
+    "Division": "AFC East",
+    "W": 7,
+    "L": 9,
+    "T": 0,
+    "Color": "#C60C30"
+  },
+  {
+    "Team": "Jets",
+    "Division": "AFC East",
+    "W": 5,
+    "L": 11,
+    "T": 0,
+    "Color": "#0C371D"
+  },
+  {
+    "Team": "Steelers",
+    "Division": "AFC North",
+    "W": 11,
+    "L": 5,
+    "T": 0,
+    "Color": "#000000"
+  },
+  {
+    "Team": "Ravens",
+    "Division": "AFC North",
+    "W": 8,
+    "L": 8,
+    "T": 0,
+    "Color": "#280353"
+  },
+  {
+    "Team": "Bengals",
+    "Division": "AFC North",
+    "W": 6,
+    "L": 9,
+    "T": 1,
+    "Color": "#FB4F14"
+  },
+  {
+    "Team": "Browns",
+    "Division": "AFC North",
+    "W": 1,
+    "L": 15,
+    "T": 0,
+    "Color": "#FE3C00"
+  },
+  {
+    "Team": "Texans",
+    "Division": "AFC South",
+    "W": 9,
+    "L": 7,
+    "T": 0,
+    "Color": "#B31B34"
+  },
+  {
+    "Team": "Titans",
+    "Division": "AFC South",
+    "W": 9,
+    "L": 7,
+    "T": 0,
+    "Color": "#0D254C"
+  },
+  {
+    "Team": "Colts",
+    "Division": "AFC South",
+    "W": 8,
+    "L": 8,
+    "T": 0,
+    "Color": "#003B7B"
+  },
+  {
+    "Team": "Jaguars",
+    "Division": "AFC South",
+    "W": 3,
+    "L": 13,
+    "T": 0,
+    "Color": "#006778"
+  },
+  {
+    "Team": "Chiefs",
+    "Division": "AFC West",
+    "W": 12,
+    "L": 4,
+    "T": 0,
+    "Color": "#B20032"
+  },
+  {
+    "Team": "Raiders",
+    "Division": "AFC West",
+    "W": 12,
+    "L": 4,
+    "T": 0,
+    "Color": "#000000"
+  },
+  {
+    "Team": "Broncos",
+    "Division": "AFC West",
+    "W": 9,
+    "L": 7,
+    "T": 0,
+    "Color": "#FB4F14"
+  },
+  {
+    "Team": "Chargers",
+    "Division": "AFC West",
+    "W": 5,
+    "L": 11,
+    "T": 0,
+    "Color": "#0C2340"
+  },
+  {
+    "Team": "Cowboys",
+    "Division": "NFC East",
+    "W": 13,
+    "L": 3,
+    "T": 0,
+    "Color": "#0D254C"
+  },
+  {
+    "Team": "Giants",
+    "Division": "NFC East",
+    "W": 11,
+    "L": 5,
+    "T": 0,
+    "Color": "#192F6B"
+  },
+  {
+    "Team": "Redskins",
+    "Division": "NFC East",
+    "W": 8,
+    "L": 7,
+    "T": 1,
+    "Color": "#773141"
+  },
+  {
+    "Team": "Eagles",
+    "Division": "NFC East",
+    "W": 7,
+    "L": 9,
+    "T": 0,
+    "Color": "#203731"
+  },
+  {
+    "Team": "Packers",
+    "Division": "NFC North",
+    "W": 10,
+    "L": 6,
+    "T": 0,
+    "Color": "#203731"
+  },
+  {
+    "Team": "Lions",
+    "Division": "NFC North",
+    "W": 9,
+    "L": 7,
+    "T": 0,
+    "Color": "#006DB0"
+  },
+  {
+    "Team": "Vikings",
+    "Division": "NFC North",
+    "W": 8,
+    "L": 8,
+    "T": 0,
+    "Color": "#3B0160"
+  },
+  {
+    "Team": "Bears",
+    "Division": "NFC North",
+    "W": 3,
+    "L": 13,
+    "T": 0,
+    "Color": "#DD4814"
+  },
+  {
+    "Team": "Falcons",
+    "Division": "NFC South",
+    "W": 11,
+    "L": 5,
+    "T": 0,
+    "Color": "#BD0D18"
+  },
+  {
+    "Team": "Bucaneers",
+    "Division": "NFC South",
+    "W": 9,
+    "L": 7,
+    "T": 0,
+    "Color": "#D60A0B"
+  },
+  {
+    "Team": "Saints",
+    "Division": "NFC South",
+    "W": 7,
+    "L": 9,
+    "T": 0,
+    "Color": "#000000"
+  },
+  {
+    "Team": "Panthers",
+    "Division": "NFC South",
+    "W": 6,
+    "L": 10,
+    "T": 0,
+    "Color": "#0088CE"
+  },
+  {
+    "Team": "Seahawks",
+    "Division": "NFC West",
+    "W": 10,
+    "L": 5,
+    "T": 1,
+    "Color": "#002244"
+  },
+  {
+    "Team": "Cardinals",
+    "Division": "NFC West",
+    "W": 7,
+    "L": 8,
+    "T": 1,
+    "Color": "#9B2743"
+  },
+  {
+    "Team": "Rams",
+    "Division": "NFC West",
+    "W": 4,
+    "L": 12,
+    "T": 1,
+    "Color": "#13264B"
+  },
+  {
+    "Team": "49ers",
+    "Division": "NFC West",
+    "W": 2,
+    "L": 14,
+    "T": 0,
+    "Color": "#AF1E2C"
+  }
+]
