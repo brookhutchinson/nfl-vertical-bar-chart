@@ -25,10 +25,12 @@ d3.json("data/nfl.json", function(error, data) {
   // _______________________________________________________________________
   // success: retrieved data
 
-
-  // _______________________________________________________________________
-  // test: loop through each object in data, write to console
-  data.forEach(function(d) {
-    console.log(d.Team + ' ' + d.W);
-  });
+  // create chart
+  createChart(data);
 });
+
+
+function createChart(data) {
+  // write to console
+  console.log("called createChart() function");
+}
